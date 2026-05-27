@@ -1,0 +1,12 @@
+MAX30102 EVALUATION RESULT
+======================================================================
+
+TEST 1: PASS
+  BPM: 75.3 vs 72.0 (Error: ±3.3)
+  SpO2: 97.86% vs 98.06% (Error: ±0.20%)
+
+TEST 2: PASS
+  BPM: 70.3 vs 72.0 (Error: ±1.7)
+  SpO2: 96.96% vs 98.06% (Error: ±1.10%)
+
+OVERALL: EXCELLENT
